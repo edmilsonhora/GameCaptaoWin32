@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_Capitao.Win32", "Game_Capitao.Win32\Game_Capitao.Win32.csproj", "{8D1C3227-B5AE-4C36-9C41-4B13DDD0CC43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-FrontEnd", "1-FrontEnd", "{30D71EBC-303E-4C7E-BE71-8C14732150A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-BackEnd", "2-BackEnd", "{0E38F57C-4CE4-4F1D-AA29-C4951A0B899C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_Capitao.Domain", "Game_Capitao.Domain\Game_Capitao.Domain.csproj", "{BF56333F-EF30-4DEC-B056-3E5A4FE2479E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D1C3227-B5AE-4C36-9C41-4B13DDD0CC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1C3227-B5AE-4C36-9C41-4B13DDD0CC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1C3227-B5AE-4C36-9C41-4B13DDD0CC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1C3227-B5AE-4C36-9C41-4B13DDD0CC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF56333F-EF30-4DEC-B056-3E5A4FE2479E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF56333F-EF30-4DEC-B056-3E5A4FE2479E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF56333F-EF30-4DEC-B056-3E5A4FE2479E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF56333F-EF30-4DEC-B056-3E5A4FE2479E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8D1C3227-B5AE-4C36-9C41-4B13DDD0CC43} = {30D71EBC-303E-4C7E-BE71-8C14732150A0}
+		{BF56333F-EF30-4DEC-B056-3E5A4FE2479E} = {0E38F57C-4CE4-4F1D-AA29-C4951A0B899C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C390429-A340-4F63-8641-C6EE77A9972C}
+	EndGlobalSection
+EndGlobal

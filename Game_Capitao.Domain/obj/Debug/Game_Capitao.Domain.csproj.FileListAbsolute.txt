@@ -1,0 +1,8 @@
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Domain\bin\Debug\Game_Capitao.Domain.dll
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Domain\bin\Debug\Game_Capitao.Domain.pdb
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Domain\obj\Debug\Game_Capitao.Domain.csproj.AssemblyReference.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Domain\obj\Debug\Game_Capitao.Domain.Media.resources
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Domain\obj\Debug\Game_Capitao.Domain.csproj.GenerateResource.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Domain\obj\Debug\Game_Capitao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Domain\obj\Debug\Game_Capitao.Domain.dll
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Domain\obj\Debug\Game_Capitao.Domain.pdb

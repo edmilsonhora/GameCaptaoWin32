@@ -1,0 +1,13 @@
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Win32\bin\Debug\Game_Capitao.Win32.exe.config
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Win32\bin\Debug\Game_Capitao.Win32.exe
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Win32\bin\Debug\Game_Capitao.Win32.pdb
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Win32\bin\Debug\Game_Capitao.Domain.dll
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Win32\bin\Debug\Game_Capitao.Domain.pdb
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Win32\obj\Debug\Game_Capitao.Win32.csproj.AssemblyReference.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Win32\obj\Debug\Game_Capitao.Win32.Properties.Resources.resources
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Win32\obj\Debug\Game_Capitao.Win32.csproj.GenerateResource.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Win32\obj\Debug\Game_Capitao.Win32.csproj.CoreCompileInputs.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Win32\obj\Debug\Game_Capitao.Win32.csproj.CopyComplete
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Win32\obj\Debug\Game_Capitao.Win32.exe
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Win32\obj\Debug\Game_Capitao.Win32.pdb
+C:\Users\Edmilson da Hora\source\repos\Game_Capitao\Game_Capitao.Win32\obj\Debug\Game_Capitao.Win32.Principal.resources
